@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/dineshnaidu10/equipment-management-system.git
 cd <your-repo>
 pip install -r requirements.txt
 python equipment_manager.py
